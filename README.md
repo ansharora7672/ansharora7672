@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am a 3rd year Computer Science Student specializing in Big Data analytics.</h3>
+<h3 align="left">I am a 3rd year Computer Science Student specializing in Big Data analytics at Conestoga College.</h3>
 
 ###
 
